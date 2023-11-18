@@ -1,0 +1,5 @@
+D:\DAW\ENTORNO DE DESARROLLO\PracticaUF1\PracticaUF1\obj\Debug\net6.0\PracticaUF1.csproj.AssemblyReference.cache
+D:\DAW\ENTORNO DE DESARROLLO\PracticaUF1\PracticaUF1\obj\Debug\net6.0\PracticaUF1.GeneratedMSBuildEditorConfig.editorconfig
+D:\DAW\ENTORNO DE DESARROLLO\PracticaUF1\PracticaUF1\obj\Debug\net6.0\PracticaUF1.AssemblyInfoInputs.cache
+D:\DAW\ENTORNO DE DESARROLLO\PracticaUF1\PracticaUF1\obj\Debug\net6.0\PracticaUF1.AssemblyInfo.cs
+D:\DAW\ENTORNO DE DESARROLLO\PracticaUF1\PracticaUF1\obj\Debug\net6.0\PracticaUF1.csproj.CoreCompileInputs.cache
